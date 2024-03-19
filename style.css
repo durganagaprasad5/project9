@@ -1,0 +1,66 @@
+body{
+    background-image: url(https://img.freepik.com/free-vector/gradient-numerology-background_23-2150066807.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.main{
+    margin-top: 25%;
+    padding: 30px;
+    height: 400px;
+    width: 350px;
+    margin: auto;
+    background: rgba(255, 223, 223, 0.3);
+}
+.n2{
+    display: flex;
+    padding: 10px;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+.n1{
+    display: flex;
+    margin-bottom: 10px;
+    padding: 10px;
+    justify-content: space-between;
+}
+#n11,#n22,#out{
+    height: 30px;
+}
+
+.n{
+    margin-top: 10px;
+}
+.res{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 10px;
+
+}
+.button1{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
+
+}
+#ad,#sub,#mul,#div{
+    height: 50px;
+    width: 90px;
+}
+.button2{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
+
+}
+h1{
+    margin-left: 159px;
+}
+h2{
+    margin-left: 100px;
+    font-size: 30px;
+
+}
